@@ -1,0 +1,14 @@
+{
+  "name": "kiffveef-plugins",
+  "description": "kiffveef's personal Claude Code plugins",
+  "owner": {
+    "name": "kiffveef"
+  },
+  "plugins": [
+    {
+      "name": "pebble-time2",
+      "source": "./plugins/pebble-time2",
+      "description": "Pebble Time 2 watchface development in C: Health API, custom fonts, emulator and device workflow"
+    }
+  ]
+}
