@@ -1,6 +1,5 @@
 {
   "name": "pebble-time2",
-  "version": "0.1.0",
   "description": "Pebble Time 2 watchface development in C: Health API, custom fonts, emulator and device workflow",
   "author": {
     "name": "kiffveef"
